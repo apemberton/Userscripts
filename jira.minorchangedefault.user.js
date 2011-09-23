@@ -7,7 +7,7 @@
 
 (function() {
 
-	var editInput = document.getElementById('minorEdit');
+	var minorEdit = document.getElementById('minorEdit');
 	if(minorEdit != null){
 		minorEdit.checked = true;
 	}
