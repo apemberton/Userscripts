@@ -6,10 +6,8 @@
 // ==/UserScript==
 
 (function() {
-
 	var minorEdit = document.getElementById('minorEdit');
 	if(minorEdit != null){
 		minorEdit.checked = true;
 	}
-
 })();
